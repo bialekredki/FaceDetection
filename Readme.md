@@ -1,5 +1,5 @@
-#Face Detection
-##Run with following commands
+#Face Detection  
+##Run with following commands  
 **--img** __path__ specifies path to an image and detects faces and emotions on the image  
 **--video** __path__ specifies path to an image and detects faces and emotions on the image  
 **---webcam** detects emotions from webcam  
